@@ -1,0 +1,23 @@
+{
+  "name": "vironit_charpter_6",
+  "version": "1.0.0",
+  "description": "Just Simple Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitalij202020/vironit_charpter_6.git"
+  },
+  "author": "vitalij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitalij202020/vironit_charpter_6/issues"
+  },
+  "homepage": "https://github.com/Vitalij202020/vironit_charpter_6#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
